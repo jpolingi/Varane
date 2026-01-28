@@ -1,1 +1,11 @@
-# Varane
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mon site</title>
+</head>
+<body>
+  <h1>Bonjour 👋</h1>
+  <p>Mon site est sur GitHub</p>
+</body>
+</html>
